@@ -115,7 +115,7 @@ O dashboard utiliza um conjunto de dados simulado com 50 estudantes, incluindo:
 
 ## Autor
 
-Desenvolvido por Manus AI para o GitHub de André Kumpel.
+Desenvolvido por Manus AI para o GitHub de Andris Kümpel.
 
 ## Licença
 
